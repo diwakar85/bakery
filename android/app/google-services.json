@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844758020797",
+    "project_id": "grosary-a9678",
+    "storage_bucket": "grosary-a9678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844758020797:android:7d677d6b3e19ffe574bdd4",
+        "android_client_info": {
+          "package_name": "com.example.bakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844758020797-mqr9kbiqa0obhgmbdulko81up8t37jqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaPtBfFk3MAoydtNqH2a3NeHFY2hlycQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844758020797-mqr9kbiqa0obhgmbdulko81up8t37jqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
